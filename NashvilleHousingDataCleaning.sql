@@ -1,4 +1,8 @@
 /*
+link to file: https://github.com/Kimani-99/Portfolio-Projects/blob/main/Nashville_Housing_Data_for_Data%20Cleaning.csv
+*/
+
+/*
 
 Cleaning Data in SQL
 

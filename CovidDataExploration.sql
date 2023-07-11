@@ -1,4 +1,12 @@
 /*
+
+N.B The data for the following was Originally obtained from: https://ourworldindata.org/covid-deaths
+
+Link to CovidDeaths File: https://github.com/Kimani-99/Portfolio-Projects/blob/main/CovidDeaths.csv
+Link to CovidVaccinations File: https://github.com/Kimani-99/Portfolio-Projects/blob/main/CovidVaccinations.csv
+*/
+
+/*
 Covid 19 Data Exploration 
 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
